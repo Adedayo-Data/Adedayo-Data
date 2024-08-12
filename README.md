@@ -2,7 +2,7 @@
 
 👀 I’m interested in data science, machine learning, tech innovations, and personal development. I love learning about new technologies and solving complex problems.
 
-🌱 I’m currently learning data analysis tools (Excel, Power BI, Tableau), Python programming, and improving my problem-solving skills through platforms like LeetCode. I'm also diving into Django for web development and market research in the ed-tech sector, retail and many more sectors of my interest
+🌱 I work with data analysis tools (Excel, Power BI, Tableau), Python programming, and improving my problem-solving skills through platforms like LeetCode. I'm also diving into Django for web development and market research in the ed-tech sector, retail and many more sectors of my interest
 
 💞️ I’m looking to collaborate on data science projects, machine learning models, and any tech-related ventures. I’m open to exploring opportunities in data analytics and contributing to meaningful projects.
 
