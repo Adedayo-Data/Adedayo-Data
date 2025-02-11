@@ -1,16 +1,28 @@
-👋 Hi, I’m Dayo by name and I go by the username @Adedayo-Data
+👋 Hi, I’m Dayo! I go by the username @Adedayo-Data
 
-👀 I’m interested in data science, machine learning, tech innovations, and personal development. I love learning about new technologies and solving complex problems.
+👀 I’m passionate about building software, data science, and machine learning. I love tech innovations, problem-solving, and continuously learning new technologies.
 
-🌱 I work with data analysis tools (Excel, Power BI, Tableau), Python programming, and improving my problem-solving skills through platforms like LeetCode. I'm also diving into Django for web development and market research in the ed-tech sector, retail and many more sectors of my interest
+💻 What I Do:
 
-💞️ I’m looking to collaborate on data science projects, machine learning models, and any tech-related ventures. I’m open to exploring opportunities in data analytics and contributing to meaningful projects.
+  Software Development: Primarily using Java, Python, and Django for web applications.
+  Data Analysis & Machine Learning: Experienced with Excel, Power BI, Tableau, and Python (Pandas, NumPy, Scikit-Learn).
+  Problem Solving: Improving my algorithmic thinking through Project buildings and Hackathons.
+  Research: Exploring trends in tech, retail, and other sectors of interest.
 
-📫 How to reach me: You can contact me through my GitHub profile or via email at adedejitheophilus2018@gmail.com.
+💞 Looking to Collaborate On:
+
+  Software projects (Web, SaaS, Open-source)
+  Data Science & Machine Learning models
+  Tech-driven solutions with real-world impact
+
+📫 How to Reach Me:
+
+    GitHub: @Adedayo-Data
+    Email: adedejitheophilus2018@gmail.com
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I’m passionate about tech and data and love tackling challenging problems. When I’m not coding, I’m exploring new ways to enhance my skills and knowledge.
+⚡ Fun Fact: When I’m not coding, I’m either playing the keyboard 🎹, exploring AI innovations, or brainstorming my next big idea!
 
 <!---
 Adedayo-Data/Adedayo-Data is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
