@@ -4,16 +4,16 @@
 
 💻 What I Do:
 
-  Software Development: Primarily using Java, Python, and Django for web applications.
-  Data Analysis & Machine Learning: Experienced with Excel, Power BI, Tableau, and Python (Pandas, NumPy, Scikit-Learn).
-  Problem Solving: Improving my algorithmic thinking through Project buildings and Hackathons.
-  Research: Exploring trends in tech, retail, and other sectors of interest.
+    Software Development: Primarily using Java, Python, and Django for web applications.
+    Data Analysis & Machine Learning: Experienced with Excel, Power BI, Tableau, and Python (Pandas, NumPy, Scikit-Learn).
+    Problem Solving: Improving my algorithmic thinking through Project buildings and Hackathons.
+    Research: Exploring trends in tech, retail, and other sectors of interest.
 
 💞 Looking to Collaborate On:
 
-  Software projects (Web, SaaS, Open-source)
-  Data Science & Machine Learning models
-  Tech-driven solutions with real-world impact
+    Software projects (Web, SaaS, Open-source)
+    Data Science & Machine Learning models
+    Tech-driven solutions with real-world impact
 
 📫 How to Reach Me:
 
