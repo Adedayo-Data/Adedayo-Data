@@ -4,8 +4,7 @@
 
 💻 What I Do:
 
-    Software Development: Primarily using Java, Python, and Django for web applications.
-    Data Analysis & Machine Learning: Experienced with Excel, Power BI, Tableau, and Python (Pandas, NumPy, Scikit-Learn).
+    Software Development: Primarily using Java/Springboot for web developement.
     Problem Solving: Improving my algorithmic thinking through Project buildings and Hackathons.
     Research: Exploring trends in tech, retail, and other sectors of interest.
 
