@@ -4,7 +4,6 @@
 ---
 
 > "I don't just write software, I ship products with real intent."
-
 I am a Backend Developer specializing in Java and Spring Boot, with a focus on building high-availability systems and scalable API architectures. My experience ranges from leading distributed microservices teams during high-pressure delivery cycles to optimizing database performance for real-time applications. I prioritize system reliability (100% uptime), clean code, and performance tuning to deliver production-ready software that scales under load.
 ---
 
