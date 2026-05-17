@@ -84,7 +84,7 @@ I am a Backend Developer specializing in Java and Spring Boot, with a focus on b
 ---
 
 ### 🎹 Beyond the Code
-When I'm not shipping code, I'm the **Media Director** of my church choir and a **keyboardist**. I also enjoy teaching, having served as a geography and math teacher and a Python co-instructor.
+When I'm not shipping code, I'm the **Media Director** of my church choir and a **keyboardist**. I also enjoy teaching, having served as a math teacher and a Python co-instructor.
 
 [![Adedayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adedayo-Data&show_icons=true&theme=transparent)](https://github.com/Adedayo-Data)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adedayo-Data&layout=compact&theme=transparent)](https://github.com/Adedayo-Data)
